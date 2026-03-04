@@ -1,8 +1,8 @@
 # 🚀 Resoluções Beecrowd
 
-Repositório dedicado às minhas resoluções de exercícios da **Beecrowd** 🧠💻
+Repositório dedicado às minhas resoluções de exercícios da plataforma: **Beecrowd** 🧠💻
 
-Aqui você vai encontrar problemas resolvidos principalmente em **Java**, mas também em outras linguagens — porque evoluir como desenvolvedor exige prática constante e versatilidade.
+Aqui você vai encontrar problemas resolvidos principalmente em **Java**, mas também em outras linguagens, porque evoluir como desenvolvedor exige um longo processo de aprendizado.
 
 ---
 
@@ -23,7 +23,7 @@ Este repositório tem como finalidade:
 * 🧠 Melhorar raciocínio algorítmico
 * 🔄 Explorar diferentes linguagens
 * 💼 Fortalecer minha base para mercado e projetos maiores
-* 📈 Evoluir constantemente como desenvolvedor
+* 📈 Eficiência de Código e bom desempenho
 
 Sempre que tenho tempo livre, resolvo novos exercícios para aprimorar minhas habilidades.
 
@@ -66,4 +66,4 @@ Sugestões, melhorias e discussões são sempre bem-vindas! 🤝
 
 > "Consistência é mais importante que intensidade."
 
-Sempre aprendendo. Sempre praticando. Sempre evoluindo. 💪
+Sempre aprendendo. Sempre praticando. Sempre evoluindo, e só no Foco. 💪
